@@ -8,9 +8,9 @@ Typographic hierarchy:
 
 > A typographic hierarchy is a method of ordering typefaces and fonts in a layout consistently to help users better navigate a page.
 
-## Colour
+## Color
 
-Colour can:
+Color can:
 
 - Add emphasis
 - Communicate branding
@@ -18,9 +18,9 @@ Colour can:
 
 60-30-10 rule:
 
-- 60% Neutral colour
-- 30% Complementary colour
-- 10% Accent colour
+- 60% Neutral color
+- 30% Complementary color
+- 10% Accent color
 
 ## Iconography
 

@@ -89,7 +89,7 @@ How to conduct:
    - e.g. first impressions, interaction, visual design, content
 4. Research each company: What works well, their audience, etc.
    - e.g. audience
-5. Analyse findings: Trends, themes, similarities.
+5. Analyze findings: Trends, themes, similarities.
 6. Summarise findings in a report.
 
 How to present summary:

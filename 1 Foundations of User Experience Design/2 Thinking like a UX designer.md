@@ -1,3 +1,13 @@
+# Module 2: Thinking like a UX designer
+
+## Contents (TOCS)
+
+```md
+- Get to know UX design best practices and trends
+- Get to know the user
+- Module 2 review
+```
+
 ## Universal design
 
 - Universal design: One product for all users, one-size-fits-all.
@@ -10,7 +20,7 @@
 
 ### Mobile
 
-Average session is 72 seconds (desktop 150). Users are goal orientated, trying to complete a single task.
+Average session is 72 seconds (desktop 150 seconds). Users are goal orientated, trying to complete a single task.
 
 - CTAs front and centre
 - Nav menus short and simple, only core functions
@@ -29,7 +39,7 @@ Average session is 72 seconds (desktop 150). Users are goal orientated, trying t
 
 Products / equipments / systems that enhance learning / working / daily living for people with disabilities.
 
-- Colour modification: High contrast mode, dark mode.
+- Color modification: High contrast mode, dark mode.
 - Voice control / switch devices: A switch is something like eye tracking.
 - Screen readers
 - Alternative text
@@ -40,4 +50,8 @@ The deep dive into pronouns and equity was... strange. Some aspect of it is abso
 
 All the non-main-host videos were remote, which unfortunately had a lower audio and video quality. Perhaps this course was created during COVID-19?
 
-Much shorter than module 1.
+## References
+
+- Google Design, [Designing for Global Accessibility: Part 1](https://design.google/library/designing-global-accessibility-part-1)
+- Google Design, [Designing for Global Accessibility: Part 2](https://design.google/library/designing-global-accessibility-part-2)
+- Google Design, [Designing for Global Accessibility: Part 3](https://design.google/library/designing-global-accessibility-part-iii)

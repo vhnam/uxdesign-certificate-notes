@@ -1,6 +1,6 @@
 ## Features
 
-- Visual elements: colours / images / icons / typography
+- Visual elements: colors / images / icons / typography
 - Navigation
 - Interaction: gestures / motion
 

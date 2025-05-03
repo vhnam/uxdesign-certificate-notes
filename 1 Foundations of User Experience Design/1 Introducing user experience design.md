@@ -1,3 +1,16 @@
+# Module 1: Introducing user experience design
+
+## Contents (TOCS)
+
+```md
+- Start the program
+- Get to know user experience design
+- Explore jobs in user experience
+- Understand the types of companies the hire UX designers
+- Pursue a career in UX design
+- Module 1 review
+```
+
 ## What is UX
 
 ### Definitions
