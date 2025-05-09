@@ -18,7 +18,7 @@ Spotting & resolving edge cases:
 
 - Create personas and user stories
 - Thoroughly review the project before launch
-- Use wireframes to visualise the project
+- Use wireframes to visualize the project
 
 ## User journey (map)
 
