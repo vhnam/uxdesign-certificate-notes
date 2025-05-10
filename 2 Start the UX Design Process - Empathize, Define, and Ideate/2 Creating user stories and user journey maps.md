@@ -1,6 +1,21 @@
+# Module 2: 2 Creating user stories and user journey maps
+
+## Contents (TOCS)
+
+```md
+- Craft user stories
+- Create a user journey map
+- Consider accessibility
+- Module 2 review
+```
+
 ## User stories
 
 AKA scenarios or user cases. Format: As a `type of user` I want to `action`, so that `benefit`.
+
+Benefits:
+
+- keeps the problem user-centered, actionable, and clear.
 
 Advantages:
 
@@ -41,12 +56,31 @@ Benefits:
 
 ## Accessibility
 
+**Accessibility** is the design of products, devices, services, or environments for people with disabilities.
+
 Types:
 
 - Permanent (e.g. no limb)
 - Temporary (e.g. injured limb)
 - Situational (e.g. holding something)
 
-Misc:
+### Assistive technologies
+
+Here are a few links to help you get started to learn assistive technologies:
+
+- Discussing the value of disability technology: [Disability Technology](https://www.youtube.com/watch?v=eFkhFxJZvho) from TEDx Talks on YouTube
+- How accessibility in technology changes lives: [How the Blind Use Technology to See The World](https://www.youtube.com/watch?v=0EQOZRIA-nA) from TEDx Talks on YouTube
+- An explanatory guide for phone accessibility: [Smartphone accessibility: a comprehensive guide](https://www.uswitch.com/mobiles/guides/smartphone-accessibility/) from Uswitch
+- Google’s [accessibility information hub homepage](https://www.google.com/accessibility/)
+
+### Putting inclusive design into practice
+
+To learn more about inclusive design, here are some additional resources to get you started:
+
+- Describing ways to design products inclusively: [Inclusive Design: 12 Ways to Design for Everyone](https://www.shopify.com/partners/blog/inclusive-design) from Shopify
+- Google’s accessible approach to inclusive design: [An Accessible Process for inclusive Design](https://www.youtube.com/watch?v=TAzkrXTGEOM&feature=emb_title) from Google I/O
+- Breaking down important inclusive design principles: [6 Principles for Inclusive Design](https://uxplanet.org/6-principles-for-inclusive-design-3e9867f7f63e) from UX Planet
+
+### Misc:
 
 - "Curb-cut effect": A phenomenon that describes how products and policies designed for people with disabilities often end up helping everyone.

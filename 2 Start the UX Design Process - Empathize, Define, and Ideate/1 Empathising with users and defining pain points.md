@@ -1,10 +1,25 @@
+# Module 1: Empathizing with users and defining pain points
+
+## Contents (TOCS)
+
+```md
+- Introduction to Course 2
+- Learn about UX design portfolio
+- Start a UX design portfolio
+- Empathize with users
+- Learn about empathy path
+- Identify user pain points
+- Create personas
+- Module 1 review
+```
+
 ## Portfolio site
 
 3 website builders:
 
 - Wix: Easy to use, lots of templates.
 - Squarespace: More attractive themes?
-- Webflow: High customisation, but allows coding?
+- Webflow: High customization, but allows coding?
 
 Good portfolio:
 
@@ -18,7 +33,7 @@ Good portfolio:
 - Make sure site is responsive to screen size
 - Test!
 
-## Empathising with users
+## Empathizing with users
 
 When it comes to empathy and similar words like pity and sympathy, the meanings can sometimes get a little blurry.
 

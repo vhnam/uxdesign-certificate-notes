@@ -2,7 +2,7 @@
 
 > the process of generating a broad set of ideas on a given topic with no attempt to judge or evaluate them.
 
-Done _after_ empathising with the user, and defining the problem.
+Done _after_ empathizing with the user, and defining the problem.
 
 ### Process
 

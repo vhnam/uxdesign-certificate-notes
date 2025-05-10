@@ -1,3 +1,14 @@
+# Module 3: Defining user problems
+
+## Contents (TOCS)
+
+```md
+- Define problem and hypothesis statements
+- Create a value proposition
+- Explore the influence of psychology in UX design
+- Module 3 review
+```
+
 ## Statements
 
 These are all linked. You have a persona, what's their problem statement, what's the related hypothesis statement(s), how does a value proposition apply?
