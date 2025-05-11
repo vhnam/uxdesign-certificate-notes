@@ -1,3 +1,16 @@
+# Module 4: Ideating design solutions
+
+## Contents (TOCS)
+
+```md
+- Understand the ideation
+- Use research to ideation
+- Build goal statements
+- Conduct competitive audits
+- Brainstorm design ideas by sketching
+- Module 4 review
+```
+
 ## Ideation
 
 > the process of generating a broad set of ideas on a given topic with no attempt to judge or evaluate them.

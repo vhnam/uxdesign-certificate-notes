@@ -124,9 +124,9 @@ Pain points are any UX issues that frustrate the user and block the user from ge
 
 Types of pain points:
 
-- Financial: E.g. price
+- Financial: E.g. price, or money-related pain points
 - Product: Often quality issues, or unintuitive
-- Process: Struggling with actual process from point A to B
+- Process: Struggling with actual process from point A to B, related to the user’s journey.
 - Support: Customer service help
 
 When you can identify user pain points, you can develop more meaningful solutions. Get started by distinguishing pain points from solutions.
