@@ -17,9 +17,15 @@ Benefits:
 
 - keeps the problem user-centered, actionable, and clear.
 
+Mapping with 5W questions
+
+- Diverse types of users (Who)
+- User actions (What)
+- User benefits (Why)
+
 Advantages:
 
-- Prioritise design goals
+- Prioritize design goals
 - Unite the team around a clear goal
 - Inspire empathetic design decisions
 - Personalize pitches to stakeholders
@@ -84,3 +90,7 @@ To learn more about inclusive design, here are some additional resources to get 
 ### Misc:
 
 - "Curb-cut effect": A phenomenon that describes how products and policies designed for people with disabilities often end up helping everyone.
+
+## Reference
+
+- Interaction Design Foundation, [User Stories: As a \[UX Designer\] I want to \[embrace Agile\] so that \[I can make my projects user-centered\]](https://www.interaction-design.org/literature/article/user-stories-as-a-ux-designer-i-want-to-embrace-agile-so-that-i-can-make-my-projects-user-centered)
