@@ -70,6 +70,10 @@ Types:
 - Temporary (e.g. injured limb)
 - Situational (e.g. holding something)
 
+
+Additionally, accessibility is not just designing to include a group of users with varying abilities. Instead, it extends to anyone who is experiencing a permanent, temporary, or situational disability.
+
+
 ### Assistive technologies
 
 Here are a few links to help you get started to learn assistive technologies:

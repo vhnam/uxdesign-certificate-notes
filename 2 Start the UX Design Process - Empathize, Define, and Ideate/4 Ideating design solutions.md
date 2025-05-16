@@ -135,6 +135,23 @@ Ways to create HMW phrases:
 
 Should be specific in describing needs, but still have space for innovation.
 
+## Rapid Sketching
+
+### Best practices
+
+- Do a creative warm-up exercise
+- Make sure your problem is well defined.
+- Don’t judge your ideas.
+- Don’t judge other people’s ideas.
+- Include a diverse group.
+- Ideate in a comfortable environment.
+- Don’t be afraid of sketching.
+
+### Benefits of Rapid Sketching
+
+- generates a lot of ideas in a small amount of time
+- forces you to think outside the box because you have to come up with many ideas in a short timeframe, without judging them. 
+
 ## Reminder
 
 Verbatim, from earlier content:
@@ -154,3 +171,7 @@ Verbatim, from earlier content:
 A new host just... appeared, without any mention? Additionally, she changed appearance drastically (makeup, hair, outfit) between videos!
 
 A very dense module!
+
+## References
+
+- Switch, [Crazy Concept Ideation with Crazy 8s](https://www.switchit.com/blog/design/crazy-concept-ideation-with-crazy-8s.aspx)
