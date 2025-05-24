@@ -1,4 +1,4 @@
-# Module 1: 1 Storyboarding and wireframing
+# Module 1: Storyboarding and wireframing
 
 ## Contents (TOCS)
 
