@@ -36,6 +36,26 @@ Drawbacks:
 - Only be tested in person
 - Difficult with remote team
 
+## Creative ways to create paper prototype
+
+### Index cards
+
+Instead of sketching all of your ideas on one piece of paper, try drawing them on a bunch of different index cards. Each index card can represent a mobile phone screen. Use tape or push pins to stick the index cards to a whiteboard or wall, or arrange the index cards in order on a table.
+
+### Sticky notes
+
+Try using sticky notes of different sizes and colors to represent different parts of your design idea. Or use colored sticky notes to call out important parts of your wireframes and prototypes.
+
+### Stencils
+
+Stencils often include a built-in ruler, symbols, and icons that are common in UX designs. Using a stencil like this one can help your drawings look neater and more realistic.
+
+### Demo device
+
+A demo device is a piece of paper or other material cut out in the shape of a mobile phone. You can place your sketches inside of the demo device to simulate a more realistic user experience with your product.
+
+Using a demo device allows you to see how your design will look at scale on a mobile phone.
+
 ## Bias recap
 
 Biases are unreasonable and unfair distortions of judgment in favor of or against a person or thing. Biases may be favorable or unfavorable: bias in favor of or against an idea. Other words for bias may include predisposition, preconception, predilection, and partiality.
@@ -75,6 +95,8 @@ Sunk-cost bias: The tendency to continue a behavior if you've already invested t
 Survivorship bias: The tendency to focus on successful cases while overlooking the failed ones.
 
 Transparency bias: The tendency to overestimate how well other people understand your own internal thoughts and feelings, or to overestimate how well you understand other people's thoughts and feelings.
+
+Note: Implicit bias is just one reason why creating and following personas and user journey maps is so important.
 
 ### How to identify and limit bias in UX design
 
@@ -172,6 +194,8 @@ Equitable and inclusive design is crucial for creating accessible experiences fo
 
 ## Reference
 
+- Kaiwei, [Example of Paper prototype](https://kaiwei.design/#/work/wardrober)
+- [Deceptive Patterns](https://www.deceptive.design/)
 - NNGroup, [The Attention Economy](https://www.nngroup.com/articles/attention-economy/)
 - Berkeley Economic Review, [Paying Attention: The Attention Economy](https://econreview.studentorg.berkeley.edu/paying-attention-the-attention-economy/)
 - Benjamin Evans, [The power of inclusive design](https://www.youtube.com/watch?v=ELFsZqp_tZY)
