@@ -1,4 +1,4 @@
-# Module 3: 3 Building low-fidelity prototypes
+# Module 3: Building low-fidelity prototypes
 
 ## Contents (TOCS)
 

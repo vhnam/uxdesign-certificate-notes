@@ -1,3 +1,16 @@
+# Module 1: Planning UX research studies
+
+## Contents (TOCS)
+
+```md
+- Introduction to Course 4
+- Understand the UX Research process
+- Build a UX research plan (part 1)
+- Build a UX research plan (part 2)
+- Respect user data and privacy
+- Module 1 review
+```
+
 ## Research study
 
 1. Plan
@@ -18,7 +31,7 @@
 - QA: Any errors / crashes?
 - Accessibility: Does it meet accessibility standards?
 
-## 1. Plan
+## Elements of Research plan
 
 - Project background: What led you to conduct this research? The context.
   - Benefits:
