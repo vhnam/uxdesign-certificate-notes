@@ -1,4 +1,4 @@
-# Module 3: - Plan a responsive website
+# Module 1: - Plan a responsive website
 
 ## Contents (TOCS)
 

@@ -13,294 +13,289 @@
 - Module 1 review
 ```
 
-Mockups include real content and offer flexibility in layout adjustments. The goal is to create designs that are visually appealing, functional, and accessible.
+## Mockups and Visual Design Foundations
 
-Mockup serves not only as a design reference but also as a communication tool for engineering and product teams. These mockups help align the team on what the final product will look like and whether it solves the intended problem.
+### Overview
 
-Foundational elements of visual design: typography, color, and iconography.
+Mockups represent detailed, **high-fidelity visual designs** that use **real content**, flexible layouts, and accessibility-aligned visual elements.  
+They serve as both a **design reference** and a **communication tool** for design, engineering, and product teams — helping everyone align on the product’s final appearance, functionality, and purpose.
 
-- **Typography** involves the use of text to create hierarchy, readability, and style.
-- **Color** communicates meaning and mood, with tools like the color wheel helping designers choose harmonious combinations.
-- **Iconography** refers to recognizable symbols, like the power icon.
+## Foundational Elements of Visual Design
+
+### Key Components
+
+1. **Typography** – Creates hierarchy, readability, and style.
+2. **Color** – Communicates meaning, emotion, and strengthens brand identity.
+3. **Iconography** – Uses recognizable symbols to enhance usability and navigation.
 
 ## Typography
 
-1. Type classification: General system, e.g. serif & sans-serif
-2. Picking a typeface: Overall style of a letter, e.g. Times New Roman
-3. Choosing a font: Size, thickness, emphasis of letters, e.g. Times New Roman Bold, 18 pt
+### Classification and Selection
 
-Typography improves both hierarchy and legibility:
+1. **Type Classification:** Serif, Sans-serif, etc.
+2. **Typeface:** The family of letters (e.g., Times New Roman).
+3. **Font:** The specific style or weight (e.g., Times New Roman Bold, 18 pt).
 
-- A typographic hierarchy is a method of ordering typefaces and fonts in a layout consistently to help users better navigate a page.
-- Legibility ensures that text is easy to read, especially for users with low vision, such as using bold, high-contrast fonts for clarity (like on food labels or checkout pages).
+### Hierarchy and Legibility
 
-### Add product copy to mockups
+- **Typographic hierarchy** structures content for easy scanning and comprehension.
+- **Legibility** ensures readability for all users, especially those with low vision.
+  - Example: Use bold, high-contrast text for checkout or warning messages.
 
-### Placeholder Text
+### Adding Product Copy to Mockups
 
-- Useful in early stages (e.g., wireframes) to focus on layout without needing finalized content.
-- Speeds up design and allows collaboration before the copy is ready.
-- Downsides: Can confuse stakeholders, affect layout when replaced, and shift attention away from design.
+#### Placeholder Text
 
-### Real Copy
+- Useful during early wireframing.
+- Focuses on layout before real copy is available.
+- Downsides: Can mislead stakeholders or distort layout later.
 
-- Helps create a more authentic, cohesive experience by showing real content and structure.
-- Encourages earlier feedback on content-related decisions.
-- Downsides: May require frequent changes, and can distract from core design discussions in early stages.
+#### Real Copy
 
-### Best Practice
+- Creates a more authentic, content-driven design.
+- Encourages earlier feedback on tone, clarity, and structure.
+- Downsides: Requires regular updating and maintenance.
 
-- Use placeholder text for low-fidelity designs and real copy for high-fidelity designs.
-- A mix of both can be effective—e.g., real labels for nav buttons but placeholder text for content.
-- Choose based on the project needs, stakeholder preferences, and stage of the design process.
-
-**Key takeaway:** Be flexible—adapt your use of copy to best support communication, clarity, and usability in your design.
+**Best Practice:**  
+Use **placeholder text** in low-fidelity wireframes and **real copy** in high-fidelity mockups.  
+A **hybrid approach** works well — e.g., real navigation labels and placeholder body text.
 
 ## Color
 
-### Importance of Color in UX Design
+### Importance in UX Design
 
-Color influences user behavior, mood, and perception. It can:
+Color impacts both **usability** and **emotion**. It can:
 
-- Convey emotions (e.g., red = urgency, blue = calm)
-- Signal actions
-- Enhance branding
-- Affect accessibility
+- Convey moods (e.g., red = urgency, blue = calmness)
+- Indicate interactive states
+- Reinforce brand recognition
+- Enhance accessibility
 
-### Color for Emphasis
+### Color for Emphasis and Branding
 
-Color highlights important actions (e.g., buttons).
-
-The 60-30-10 Rule is commonly used:
-
-- 60% neutral color (e.g., white)
-- 30% complementary color (e.g., gray)
-- 10% accent color (e.g., orange for a CTA button)
-
-### Color for Branding
-
-- Color defines a product's visual identity.
-- Strong brands use consistent color palettes (e.g., Google’s blue, red, yellow, green).
-- Designers must follow brand color guidelines to maintain consistency.
+- Follow the **60–30–10 rule:**
+  - 60% neutral, 30% secondary, 10% accent (e.g., CTA color).
+- Consistent brand colors ensure recognition (e.g., Google’s blue, red, yellow, green).
 
 ### Color and Accessibility
 
-- High contrast improves readability for all users.
-- Follow [WCAG](https://www.w3.org/TR/WCAG21/) guidelines to ensure accessible design.
-- Test colors across devices and lighting conditions—colors can appear differently depending on the environment (e.g., the viral “dress” illusion).
+- Ensure **high contrast ratios** (min 4.5:1 for text per WCAG).
+- Test color schemes across devices and lighting conditions.
+- Use **symbols or textures** in addition to color for accessibility.
 
-### Key Takeaway
+**Tools for Testing:**
 
-Use color purposefully to emphasize, communicate brand identity, and support accessibility—all to help users navigate your product more effectively.
+- [Stark Plugin for Figma](https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-checker)
+- [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+- [Color Safe](http://colorsafe.co/) for accessible palette generation.
 
-### Accessibility Considerations for Color
+**Additional Tips:**
 
-- Color affects emotions and draws attention, but designers must ensure colors work for all users, including those with visual impairments like color blindness.
-- The WCAG guidelines provide standards to improve accessibility, covering disabilities such as visual, auditory, physical, cognitive, and neurological.
-
-### Color Blindness
-
-- Common types include red-green, blue-yellow, and total color blindness.
-- To accommodate color blindness:
-  - Use icons or symbols alongside color (e.g., an exclamation mark with a red highlight).
-  - Use patterns or textures in addition to color to differentiate elements (like in graphs).
-  - Avoid difficult-to-distinguish color pairs placed next to each other (e.g., green & red, blue & purple).
-  - Always provide multiple ways to convey information, not just color.
-
-### Low Contrast Sensitivity
-
-- Many people struggle with distinguishing low-contrast elements, especially in poor lighting or with aging eyes.
-- WCAG recommends a minimum contrast ratio of 4.5:1 between text and background to ensure readability.
-- Contrast ratios range from low (2:1) to maximum (21:1, black and white).
-- Tools like WebAIM’s Contrast Checker help test and adjust colors to meet accessibility standards.
-
-### Light Sensitivity
-
-- Some users are sensitive to bright light and prefer light, dark, or high contrast modes.
-- Designers should support multiple display modes to accommodate these preferences.
-
-### Tools & Tips
-
-- Use simulators like [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) to test your designs.
-- Use plugins like [Stark](https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-checker) for Figma to check contrast directly in design software.
-- Explore [Color Safe](http://colorsafe.co/) for generating accessible color palettes.
+- Avoid relying solely on color to convey meaning.
+- Provide dark mode or high-contrast options for light-sensitive users.
+- Test designs for **color blindness**, **low contrast**, and **light sensitivity**.
 
 ## Iconography
 
-- Icons are graphic symbols that represent ideas or actions, helping users navigate and understand interfaces quickly.
+### Overview
+
+Icons are **visual cues** that simplify navigation and reinforce meaning.
 
 ### Universal vs. Cultural Icons
 
-- Some icons (like a house for “Home”) are widely recognized.
-- Others (like American football) may not work globally—choose culturally relevant icons.
+- **Universal:** Understood globally (e.g., house = home).
+- **Cultural:** May vary across audiences (e.g., sports icons).
 
-### Accessibility
+### Accessibility and Best Practices
 
-Always add text labels to icons so screen readers can interpret them.
+- Pair icons with **text labels** for screen readers.
+- Maintain **consistent color, size, and style** to align with brand tone.
+- Use **clear, universally recognizable symbols**.
 
-### Best Practices for Using Icons
+## Additional Visual Design Elements
 
-- Make icons universal: Choose icons understandable by a global audience.
-- Include text labels: Add small labels below icons to improve accessibility and clarity.
-- Keep branding consistent: Match icons’ color, style, and font to the overall design.
+- **Lines:** Divide or organize content.
+- **Size:** Affects usability and emphasis; ensure accessible touch targets.
+- **Shape:** Suggests meaning (circle = add, X = close).
+- **Images:** Enhance storytelling and emotional connection.
+  - Always include **alt text** for accessibility.
 
-### More Visual Design Elements
+## Images in UX Design
 
-Beyond typography, color, and iconography, key basic visual elements include lines, size, shape, and images. You don't need to be artistic to use these effectively.
+- Communicate ideas quickly without text.
+- Build emotional engagement and brand personality.
+- Use purposefully — avoid decorative or irrelevant visuals.
 
-- Lines: Connect or separate sections, emphasize parts of a design (e.g., a line under headers).
-- Size: Relative size matters, especially on small screens—too small buttons frustrate users.
-- Shape: Shapes (circles, squares, etc.) convey meaning, like a circle with "+" to expand or "X" to close.
-- Images: Tell stories and add impact; should be relevant and emotionally engaging for users.
+**Resources:**
 
-### Putting It All Together
+- [Blush](https://blush.design/) – Custom illustrations.
+- [Unsplash](https://unsplash.com/) – High-resolution stock photos.
 
-- Visual appeal: Check your design for clarity, proper alignment, and aesthetic balance.
-- Accessibility: Make sure elements like headers stand out, and images have alternative text for screen readers.
+## Layout and Structure
 
-## Images
+### Layouts
 
-- Images help communicate messages without words and aid user scanning.
-- Photos (e.g., hotel rooms) show details words can’t.
-- Images create emotional connections and add personality (e.g., Twitter’s “Fail Whale”).
-- Strong images help differentiate a product and build brand presence.
-- Use images purposefully to support text and UI, not just decoration.
+Organize text, icons, and visuals logically for easy scanning and comprehension.  
+Highlight key elements through layout flow and proportion.
 
-Can find stock images at:
+### Using Grids
 
-- [Blush](https://blush.design/): Create and customize free illustrations by artists from all over the world. You can install the plugin or create your own doodle.
-- [Unsplash](https://unsplash.com/): Search and download free, high-resolution images.
+- **Purpose:** Ensure consistent spacing and alignment.
+- **Grid Types:**
+  - Web: ~12 columns
+  - Tablets: 4–8 columns
+  - Smartwatches: 1 column
+- **Benefits:** Improves consistency, collaboration, and reusability across screen sizes.
 
-## Additional Design Considerations
+### Containment Techniques
 
-### Hyperlinked Text
+Use visual boundaries to structure layouts:
 
-- Hyperlinks help users navigate and are usually blue and underlined.
-- Use links sparingly to avoid clutter.
-- Follow conventions: blue + underlined = link.
-- Links don’t have to look the same—logos often link to home.
-- Use descriptive link text instead of generic words like "here."
+- **Dividers:** Separate unrelated sections.
+- **Borders:** Define clickable or grouped areas.
+- **Fill:** Draw attention using background color.
+- **Shadow:** Add depth and hierarchy.
 
-### Buttons
+## Spacing (White Space)
 
-- Buttons should look clickable (common shapes: rectangles, circles).
-- Use consistent button styles throughout your design.
-- Include padding/negative space around buttons for easier clicking/tapping.
-- Common button types: filled (square/rounded), with shadow, or outlined (“ghost” buttons).
+### Definition
 
-### Inputs
+White space, or **negative space**, separates elements to improve readability and focus.
 
-- Inputs are fields for user info and should be clear and appropriately sized.
-- Use visual cues like ghost/hint text to show expected input format.
-- Group inputs into categories (e.g., Personal Info, Contact Info) for clarity when many fields are present.
+### Benefits
 
-## Layouts
+1. **Emphasis:** Draws attention to CTAs or key content.
+2. **Grouping:** Clarifies relationships between elements.
+3. **Readability:** Prevents clutter and interaction errors.
 
-- Layouts arrange text, style, icons, and images on a page.
-- The purpose is to present information logically and highlight key elements.
+### How to Use
 
-### Using Grids in Layouts
+- **Line spacing:** Enhance readability.
+- **Padding:** Add inner spacing to components.
+- **Margins:** Add outer spacing for structure and alignment.
 
-Grids help place elements accurately and improve user flow in mockups.
+**Key Principle:** White space improves comprehension and usability — it’s not wasted space.
 
-- Basic grids divide pages into evenly spaced squares for consistent spacing.
-- Layout grids use columns (colored blocks) and alleys (spaces) to organize content.
+## Common Mobile Design Patterns
 
-Number of columns varies by device:
+### Key Screens
 
-- Websites: ~12 columns
-- Tablets/apps: 4–8 columns
-- Smartwatches: 1 column
+1. **Home Screen:** Simple and intuitive; highlights core features.
+2. **Onboarding Screens:** Introduce features; concise copy and engaging visuals reduce drop-off.
+3. **Profile Screen:** Organizes personal details and settings.
+4. **Checkout Screen:** Simplifies payment with clear visual cues and trust signals.
 
-Why use a layout grid?
+### Design Tip
 
-- Create clarity and consistency
-- Quicken the design process
-- Make it easier to collaborate on designs
+Use familiar UI conventions like **navigation drawers**, **FABs**, and **splash screens** to create a seamless user experience.
 
-Grids also make layouts reusable for different purposes.
+## Designing Accessible Webpages
 
-### Containment
+### Overview
 
-Containment helps organize design layouts using visual barriers like **lines and colors**. There are four main methods:
+Designing with accessibility ensures all users — including those with disabilities — can interact with your website effectively.  
+Follow the **Web Content Accessibility Guidelines (WCAG)** to meet inclusive design standards.
 
-- **Dividers** – Lines that separate unrelated content (e.g., gray lines between dog walker profiles).
-- **Borders** – Continuous lines forming shapes (e.g., a rectangle around a button to make it identifiable).
-- **Fill** – Adds color to shapes or borders to draw attention (e.g., applying orange fill to highlight a button).
-- **Shadow** – Adds depth and dimension, often combined with borders or fill (e.g., making a button appear three-dimensional).
+## Accessible Markup Techniques
 
-## Spacing (White Space) in UX Design
+### 1. Navigation Order (Annotations)
 
-White space—also called negative space—is the empty space between elements in a design. It's a powerful tool that improves layout, usability, and clarity. There are three main benefits of white space:
+- Defines how users **tab** through elements using a keyboard or screen reader.
+- **Annotations:** Add numbered circles to show focus order.
+- Default navigation typically moves **top-left to bottom-right**.
+- Annotate any elements that fall **outside this natural order** or require **custom focus behavior**.
 
-- **Emphasis:** White space draws attention to key elements, like a call-to-action button. For example, the Google homepage uses white space to focus attention on the search bar.
-- **Proximity (Grouping):** Elements placed close together are perceived as related, while distant elements seem unrelated—this is based on the Gestalt principle of proximity.
-- **Readability:** Adequate spacing makes designs easier to read and navigate. Overcrowded layouts confuse users and reduce usability.
+**Why It Matters:**  
+Screen readers and keyboards rely on this structure to provide logical, predictable navigation.
 
-Additionally, insufficient white space can lead to errors, such as accidentally tapping the wrong button on a mobile app.
+### 2. Hierarchical Headings
 
-Finally, as a UX designer, you may need to educate stakeholders on the value of white space. Though some may want to cram more content in, well-used spacing can enhance usability and drive better results—like more sign-ups or conversions.
+- Use **HTML heading tags (H1–H6)** to communicate structure to assistive technology.
+- **H1:** Main title
+- **H2:** Section title
+- **H3:** Subsection title
+- Annotate heading levels in mockups to help engineers implement correct markup.
 
-### Why Negative Space Matters
+**Benefit:**  
+Improves screen reader navigation and helps users orient themselves within content.
 
-- **Indicates Relationships:** Elements placed close together are seen as related due to the Gestalt Principle of proximity. Negative space helps distinguish between related and unrelated elements.
-- **Draws Attention:** Negative space helps users focus on important elements, like buttons or key actions. Without it, users can quickly lose focus.
-- **Provides a Visual Break:** It prevents the design from feeling overcrowded, giving users a mental break as they scan the page.
-- **Increases Readability:** Proper use of negative space makes text easier to read and helps avoid overwhelming users with too much information at once.
+### 3. Accessibility Labels
 
-### How to Use Negative Space in Your Designs
+- Add **textual descriptions** for interactive elements (buttons, checkboxes, menus).
+- Labels should describe both **purpose** and **type** of control (e.g., “Submit button”).
+- Group related elements (like checkbox sets) for easier comprehension.
 
-- **Line Spacing**: Vertical space between text to make reading easier.
-- **Padding**: Space around content, inside borders, preventing overcrowding and creating balance.
-- **Margins**: The space outside the design's border, helping keep elements within a clean layout.
+**Example:**  
+Gmail’s “Compose” floating button → Label: “Compose,” Role: “Button.”
 
-## Common design patterns in mobile apps
+**Design Tip:**  
+Annotate every label and semantic role so developers can apply **ARIA attributes** effectively.
 
-When designing mobile app layouts, it’s useful to know common design patterns used in existing apps. This can streamline your design process and improve usability.
+## Accessible Color and Contrast
 
-### Common App Screens
+### Luminosity Contrast Ratio
 
-1. Home Screen
+- Measures visibility difference between text and background.
+- Use **light backgrounds with dark text** or vice versa.
+- Maintain at least **4.5:1** contrast for normal text (WCAG standard).
 
-- The first screen users see, displaying the app’s main content and features.
-- It should be simple, easy to navigate, and not overcrowded with content.
-- Familiar navigation elements like a bottom menu and search icon are commonly used.
+### Color Combinations
 
-2. Onboarding Screens
+- Avoid problematic color pairs (e.g., red–green, gray–white).
+- Reference [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) for compliance.
 
-- Introduce new users to the app’s features and functions.
-- These screens help users get started quickly and can personalize the experience.
-- Clear, concise copy and engaging visuals are key to reducing user drop-off.
+### For Color Vision Deficiencies
 
-3. Profile/Account Screen
+- Use **icons, text, or patterns** alongside color.
+- Do not rely solely on hue differences to communicate information.
 
-- Contains personal details, preferences, and settings.
-- Should be simple, clean, and organized to make navigation easy.
+**Tools:**
 
-4. Checkout Screen
+- [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+- [Stark Plugin](https://www.figma.com/community/plugin/732603254453395948/stark-contrast-accessibility-checker)
 
-- Used for completing purchases and can involve filling out payment and shipping details.
-- To minimize stress, ensure forms are easy to fill out with visual cues and security assurances.
+## Making Responsive Websites Accessible
 
-### Key Takeaways
+### Responsive Design Accessibility
 
-- Incorporating common design patterns into your wireframes makes the design process smoother, saving time for creative experimentation.
-- Other design patterns to explore include splash screens, navigation drawers, and floating action buttons.
+- Websites should resize dynamically as users zoom in or adjust font sizes.
+- Elements must **reflow** instead of overlapping or breaking layout.
+
+**Best Practices:**
+
+1. Design flexible grids and fluid layouts.
+2. Test zoom levels (200–400%).
+3. Provide mockups for both **default** and **enlarged** views.
+4. Communicate responsive behavior clearly to developers.
+
+**Goal:**  
+Ensure that users who rely on magnification tools can navigate and read content comfortably.
+
+## Accessibility Resources
+
+- **Google Material Design:** [Designing with Accessibility in Mind](https://material.io/design) — hierarchy, color, layout guidance.
+- **The A11Y Project:** Community resources for digital accessibility.
+- **WCAG:** [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
+- **Medium:** [Annotating Your Design Work](https://medium.com)
+- **WebAIM:** [Introduction to ARIA](https://webaim.org/techniques/aria/)
+
+## Key Takeaways
+
+- Accessibility must be **planned during design**, not added afterward.
+- Use **annotations**, **heading hierarchy**, **labels**, and **contrast testing** for inclusivity.
+- Ensure responsiveness works with zoom and scaling.
+- Collaborate with developers to implement WCAG and ARIA standards.
+- Accessible design benefits **all users** — improving usability, clarity, and satisfaction.
 
 ## References
 
-- Andrew Gray, [Device Mockups Library (100+ devices!)](https://www.figma.com/community/file/786708730400780813)
-- NNGroup, [Legibility, Readability, and Comprehension: Making Users Read Your Words](https://www.nngroup.com/articles/legibility-readability-comprehension/)
-- Nick Babich, [7 Things To Remember When Selecting Fonts For Your Design](https://uxplanet.org/7-things-to-remember-when-selecting-fonts-for-your-design-ec1e592266c5)
-- [WCAG](https://www.w3.org/TR/WCAG21/)
-- CareerFoundry, [An Introduction to Color Theory and Color Palettes](https://careerfoundry.com/en/blog/ui-design/introduction-to-color-theory-and-color-palettes/)
-- Toptal, [The Role of Color in UX](https://www.toptal.com/designers/ux/color-in-ux)
-- Material Design, [Applying color to UI](https://m2.material.io/design/color/applying-color-to-ui.html)
-- W3C, [https://www.w3.org/WAI/test-evaluate/preliminary/#video](https://www.w3.org/WAI/test-evaluate/preliminary/#video)
-- W3C, [Colors with Good Contrast](https://www.w3.org/WAI/perspective-videos/contrast/)
-- WebAIM, [Contrast Checker](https://webaim.org/resources/contrastchecker/)
-- Intechnic, [Icon Usability - Best UX Tips and Design Guidelines](https://www.intechnic.com/blog/icon-usability-best-ux-tips-and-design-guidelines/)
-- Digital.gov, [Guides](https://digital.gov/guides)
-- UX Planet, [7 Basic Rules for Button Design](https://uxplanet.org/7-basic-rules-for-button-design-63dcdf5676b4)
-- UX Planet, [The Anatomy of Input Field](https://uxplanet.org/the-anatomy-of-input-field-c3ef863e01d7)
-- Smashing Magazine, [Building Better UI Designs With Layout Grids](https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/)
+- [WCAG 2.1 Guidelines](https://www.w3.org/TR/WCAG21/)
+- [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
+- [Material Design: Applying Color to UI](https://m2.material.io/design/color/applying-color-to-ui.html)
+- [NNGroup: Legibility, Readability, and Comprehension](https://www.nngroup.com/articles/legibility-readability-comprehension/)
+- [UX Planet: 7 Basic Rules for Button Design](https://uxplanet.org/7-basic-rules-for-button-design-63dcdf5676b4)
+- [Smashing Magazine: Layout Grids](https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/)
+- [Toptal: The Role of Color in UX](https://www.toptal.com/designers/ux/color-in-ux)
+- [Intechnic: Icon Usability Guidelines](https://www.intechnic.com/blog/icon-usability-best-ux-tips-and-design-guidelines/)
+- [Digital.gov: Accessibility Guides](https://digital.gov/guides/)
+- [The A11Y Project](https://www.a11yproject.com/)
