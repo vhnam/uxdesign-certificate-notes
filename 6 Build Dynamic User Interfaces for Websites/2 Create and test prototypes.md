@@ -1,4 +1,4 @@
-# Module 2: - 2 Create and test prototypes
+# Module 2: Create and test prototypes
 
 ## Contents (TOCS)
 
